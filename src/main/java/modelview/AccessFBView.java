@@ -68,6 +68,10 @@ public class AccessFBView {
         readFirebase();
     }
     
+    public void clearFilter() {
+ 
+}
+    
     public void addData() {
 
         DocumentReference docRef = App.fstore.collection("References").document(UUID.randomUUID().toString());
