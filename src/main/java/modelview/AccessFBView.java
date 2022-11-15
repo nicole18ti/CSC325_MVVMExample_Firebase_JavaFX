@@ -1,5 +1,18 @@
 package modelview;
 
+/**
+ * Tiffany Chan
+ * CSC325
+ * Lab 10
+ * 
+ * 1. done
+ * 2. done
+ * 3, 4, 5 didn't work on row, but worked on textArea
+ * 
+ * 6. enabled google and facebook authentication - done
+ * 7. set up the storge on firebase and have one picture in it
+ */
+
 import com.mycompany.mvvmexample.App;
 import viewmodel.AccessDataViewModel;
 import com.google.api.core.ApiFuture;
